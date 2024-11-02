@@ -1,0 +1,13 @@
+{
+  "name": "hans-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with QR code authentication",
+  "main": "hans.js",
+  "scripts": {
+    "start": "node hans.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
